@@ -44,7 +44,7 @@ POSSIBILITY OF SUCH DAMAGE.
 #include <unistd.h>
 
 // For developmental purposes
-#define DO_TRACE 0
+#define DO_TRACE 1
 
 // D-Bus name, path, iface
 #define DAEMON_DBUS_NAME "com.feralinteractive.GameMode"
